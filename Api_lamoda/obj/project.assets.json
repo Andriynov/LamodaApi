@@ -5168,11 +5168,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Api_lamoda.csproj",
+      "projectUniqueName": "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda.csproj",
       "projectName": "Api_lamoda",
-      "projectPath": "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Api_lamoda.csproj",
+      "projectPath": "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda.csproj",
       "packagesPath": "C:\\Users\\timaf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\obj\\",
+      "outputPath": "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

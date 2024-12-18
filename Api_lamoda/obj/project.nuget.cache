@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nYxp0x4amKM=",
+  "dgSpecHash": "COHfj2at2ro=",
   "success": true,
-  "projectFilePath": "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Api_lamoda.csproj",
+  "projectFilePath": "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\timaf\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\timaf\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
