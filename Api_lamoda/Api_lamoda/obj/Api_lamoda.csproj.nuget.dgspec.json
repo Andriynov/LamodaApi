@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timaf\\Documents\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Api_lamoda.csproj": {}
+    "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Api_lamoda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timaf\\Documents\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Api_lamoda.csproj": {
+    "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Api_lamoda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timaf\\Documents\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Api_lamoda.csproj",
+        "projectUniqueName": "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Api_lamoda.csproj",
         "projectName": "Api_lamoda",
-        "projectPath": "C:\\Users\\timaf\\Documents\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Api_lamoda.csproj",
+        "projectPath": "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Api_lamoda.csproj",
         "packagesPath": "C:\\Users\\timaf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timaf\\Documents\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\obj\\",
+        "outputPath": "C:\\Users\\timaf\\OneDrive\\Документы\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,9 +50,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

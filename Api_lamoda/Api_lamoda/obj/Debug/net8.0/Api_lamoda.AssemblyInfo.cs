@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api_lamoda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9492c32d6d890c598eaf87c7cfa6e724fe262625")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b95c854d96d10363639b0ed19e63f07f67031159")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api_lamoda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api_lamoda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

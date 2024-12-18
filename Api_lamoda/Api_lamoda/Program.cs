@@ -1,3 +1,7 @@
+using Api_lamoda.Models;
+
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 
 namespace Api_lamoda
 {
@@ -7,9 +11,24 @@ namespace Api_lamoda
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
 
-            builder.Services.AddControllers();
+
+
+
+            builder.Services.AddDbContext<AndriynovContext>(
+                optionsAction: option => option.UseSqlServer(
+                    connectionString:"Server=DESKTOP-U3OPFQS;Database=Andriynov;Integrated Security=True; TrustServerCertificate=True"));
+      
+
+
+
+
+
+
+
+        // Add services to the container.
+
+        builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
