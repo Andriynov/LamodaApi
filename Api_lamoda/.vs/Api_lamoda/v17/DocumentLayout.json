@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timaf\\Documents\\GitHub\\LamodaApi\\Api_lamoda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\documents\\github\\lamodaapi\\api_lamoda\\api_lamoda\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\documents\\github\\lamodaapi\\api_lamoda\\api_lamoda\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Api_lamoda\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Api_lamoda\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAiwC8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:45:20.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Api_lamoda\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\LamodaApi\\Api_lamoda\\Api_lamoda\\WeatherForecast.cs",
+              "RelativeToolTip": "Api_lamoda\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:45:16.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

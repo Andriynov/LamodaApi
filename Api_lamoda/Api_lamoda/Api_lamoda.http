@@ -1,0 +1,6 @@
+@Api_lamoda_HostAddress = http://localhost:5215
+
+GET {{Api_lamoda_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
